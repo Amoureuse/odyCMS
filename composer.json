@@ -1,0 +1,12 @@
+{
+    "name": "odexy/cms",
+    "description": "Ody CMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Odexy group",
+            "email": "admin@odexy.in.ua"
+        }
+    ],
+    "require": {}
+}
